@@ -101,3 +101,16 @@ We provide online model outputs in `data/KK-Data/online_generated`
 
 Our modifications on VeRL's core logic are not tested in other experiment settings. This repository should only be used to reproduce results in our paper.
 
+## Cite this work
+
+```
+@misc{chen2025revealingeffectivenesssmallscalefinetuning,
+      title={Towards Revealing the Effectiveness of Small-Scale Fine-tuning in R1-style Reinforcement Learning}, 
+      author={Yutong Chen and Jiandong Gao and Ji Wu},
+      year={2025},
+      eprint={2505.17988},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.17988}, 
+}
+```
