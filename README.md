@@ -2,6 +2,9 @@
 
 This is the official implementation of paper *Towards Revealing the Effectiveness of Small-Scale Fine-tuning in R1-style Reinforcement Learning*
 
+Paper link: [Arxiv](http://arxiv.org/abs/2505.17988)
+
+
 We provide data and training/evaluation code for reproducing main experiments in paper.
 
 Our code implementation is based on [VeRL](https://github.com/volcengine/verl) and [SimpleRL-Zoo](https://github.com/hkust-nlp/simpleRL-reason)
